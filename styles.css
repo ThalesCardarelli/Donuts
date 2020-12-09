@@ -54,7 +54,7 @@ img {
 /*END MENU SET*/
 
 .box-left {
-  background-image: url('../images/restaurant.jpg');
+  background-image: url('restaurant.jpg');
   grid-area: box-left;
   background-repeat: no-repeat;
   background-position: center;
@@ -82,7 +82,7 @@ padding: 3%;
 }
 /*BOX MIDDLE*/
 .box-middle {
-  background-image: url('../images/oranges.jpg');
+  background-image: url('oranges.jpg');
   grid-area: box-middle;
   background-repeat: no-repeat;
   background-position: center;
@@ -118,7 +118,7 @@ padding: 3%;
 }
 /*BOX RIGHT*/
 .box-right {
-  background-image: url('../images/donuts.jpg');
+  background-image: url('donuts.jpg');
   grid-area: box-right;
   background-repeat: no-repeat;
   background-position: center;
